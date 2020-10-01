@@ -1,2 +1,2 @@
 # container_design
-Container decoration with shadow and border
+Container decoration experiment with shadows and borders
